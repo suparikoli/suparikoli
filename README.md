@@ -52,11 +52,3 @@ Fixes sent back to the projects we implement, not just around them:
 | [medusajs/medusa#16417](https://github.com/medusajs/medusa/issues/16417) | Same root cause reachable through CORS configuration |
 | [frappe/frappe#41827](https://github.com/frappe/frappe/pull/41827) · [#41828](https://github.com/frappe/frappe/pull/41828) | A base-class arity mismatch and a frozen loop condition |
 | [frappe/erpnext#57705](https://github.com/frappe/erpnext/issues/57705) | Five reports were mislabelling their Yearly column |
-
-<br />
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suparikoli&show_icons=true&hide_title=true&hide_border=true&theme=transparent&text_color=8b949e&icon_color=0089D6)
-
-</div>
